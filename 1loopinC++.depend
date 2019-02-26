@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549674976 source:d:\programowanie\c++\1loopinc++\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+
